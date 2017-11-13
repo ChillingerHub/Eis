@@ -1,0 +1,12 @@
+{
+    "name": "stefan/ice",
+    "description": "Your favorite ice",
+    "type": "library",
+    "license": "GLU",
+    "autoload": {
+        "psr-4":{
+            "Stefan\\Ice\\": "vendor/src/"
+        }
+    },
+    "require": {}
+}
